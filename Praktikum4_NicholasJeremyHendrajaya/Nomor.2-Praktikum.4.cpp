@@ -8,7 +8,7 @@ int main() {
     // Input tinggi segitiga sesuai kemauan pengguna
     cout << "Masukkan tinggi segitiga yang diinginkan: ";cin >> tinggi;
 
-    // Proses membuat segitiga binang
+    // Proses membuat segitiga bintang
     for (int i = 1; i <= tinggi; i++) {
         // Operasi membuat spasi pada sisi kiri atau awal pada setiap baris agar terbentuk segitiga
         for (int j = 1; j <= tinggi - i; j++) {
