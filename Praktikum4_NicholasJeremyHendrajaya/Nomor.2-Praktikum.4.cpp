@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     int tinggi;
 
-    // Input tinggi segitiga sesuai kemauan pengguna
+    // Input tinggi segitiga sesuai keinginan pengguna
     cout << "Masukkan tinggi segitiga yang diinginkan: ";cin >> tinggi;
 
     // Proses membuat segitiga bintang
